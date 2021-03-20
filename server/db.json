@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "My title",
+      "description": "Test ",
+      "id": 1
+    },
+    {
+      "title": "Oh my god ",
+      "description": "I have a very long description for this stream. This is my test stream.",
+      "userId": "108012589816055206413",
+      "id": 2
+    },
+    {
+      "title": "Title for my Stream",
+      "description": "I have a very long description for this stream. This is my test stream.",
+      "userId": "108012589816055206413",
+      "id": 3
+    }
+  ]
+}
